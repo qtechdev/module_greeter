@@ -1,3 +1,2 @@
 # greeter
-
-prints a greeting to the user.
+Prints a greeting to the user.
